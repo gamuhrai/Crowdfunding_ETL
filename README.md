@@ -30,9 +30,21 @@ Data Handling: Expertise in Pandas for data processing and cleansing operations.
 Database Management: Competent in PostgreSQL for creating schemas, tables, and importing data.
 Collaborative Excellence:
 
-Communication: Maintained regular communication with my partner to synchronize efforts and ensure project milestones were met on schedule.
+Communication: Maintained regular communication with my partners to synchronize efforts and ensure project milestones were met on schedule.
 Problem-Solving: Applied critical thinking and analytical skills to overcome challenges and optimize data workflows effectively.
 Conclusion
 Through the Crowdfunding ETL Mini Project, I have demonstrated my ability to conceptualize, execute, and deliver a complex data engineering project. This experience underscores my proficiency in ETL processes, database management, and collaborative teamwork. I am eager to leverage these skills in a role where I can contribute to impactful projects and drive organizational success through data-driven insights.
 
 Thank you for reviewing my project. I look forward to discussing how my skills and experiences align with your team's needs.
+Sincerely,
+
+David Gamarra
+www.linkedin.com/in/david-al-gamarra
+
+
+
+
+
+
+
+
